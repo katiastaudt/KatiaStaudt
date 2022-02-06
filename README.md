@@ -4,8 +4,8 @@ I'm a professional searching for a new position in ​​mobile development area
 
 <div align="center">
   <a href="https://github.com/katiastaudt">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=katiastaudt&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=katiastaudt&layout=compact&langs_count=7&theme=vue-dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=katiastaudt&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=katiastaudt&layout=compact&langs_count=7&theme=vue-dark"/>
     </div>
   </div>
 <div style="display: inline_block"><br>
